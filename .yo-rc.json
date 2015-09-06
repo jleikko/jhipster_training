@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipster_training",
+    "packageName": "net.leikko",
+    "packageFolder": "net/leikko",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": false,
+    "rememberMeKey": "77835b7aa9be616e7eecd68f1e8cc68d0a1962dc"
+  }
+}
